@@ -24,10 +24,6 @@ void setup(){
 
 void draw(){
   background(0);
-  
-  if(space){
-    fill(255);
-  }
 }
 
 void keyPressed(){

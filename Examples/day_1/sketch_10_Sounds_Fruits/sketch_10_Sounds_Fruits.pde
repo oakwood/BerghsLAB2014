@@ -6,10 +6,10 @@ import ddf.minim.*;
 Minim minim;
 
 // create the audio player for each specific key
-AudioPlayer a_player;
-AudioPlayer s_player;
-AudioPlayer d_player;
-AudioPlayer f_player;
+AudioPlayer a_player; // Banana
+AudioPlayer s_player; // Apple 
+AudioPlayer d_player; // Orange
+AudioPlayer f_player; // Cucumber
 
 // flag to know if the keys are pressed or not
 boolean a = false;
