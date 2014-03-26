@@ -8,8 +8,8 @@
 
 import spacebrew.*;
 
-String server="ws://spacebrew.herokuapp.com:80";
 String name="P5 Range Example";
+String server="sandbox.spacebrew.cc";
 String description ="Client that sends and receives range messages. Range values go from 0 to 1023.";
 
 

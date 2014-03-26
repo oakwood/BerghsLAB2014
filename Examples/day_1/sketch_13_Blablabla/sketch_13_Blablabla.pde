@@ -1,4 +1,4 @@
-// create 2 images for each one
+/        / create 2 images for each one
 PImage murilo_top;
 PImage murilo_bottom;
 PImage paulo_top;

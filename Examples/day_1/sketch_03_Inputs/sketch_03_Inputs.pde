@@ -11,6 +11,8 @@ void draw(){
   background(backgroundColor);
   // Draws the ellipse in the mouse coordinates
   ellipse(mouseX, mouseY, 100, 100);
+  
+  println(key);
 }
 
 void keyPressed(){

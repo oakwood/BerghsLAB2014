@@ -8,8 +8,8 @@
 
 import spacebrew.*;
 
-String server="ws://spacebrew.herokuapp.com:80";
 String name="P5 Custom Example - Dice";
+String server="sandbox.spacebrew.cc";
 String description ="Client that sends and receives a virtual dice roll - a number between 1 and 6.";
 
 
