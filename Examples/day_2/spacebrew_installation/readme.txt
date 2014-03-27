@@ -1,7 +1,7 @@
 Spacebrew installation
 
 #1
-Copy the `spacebrew` folder from this folder to your `Processin/libraries`.
+Copy the `spacebrew` folder from this folder to your `Processing/libraries`.
 
 #2
 If your Processing is running, quit and relaunch.
