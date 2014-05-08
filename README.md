@@ -37,7 +37,6 @@ A simple way to create an interface out of vegetables. Each fruit is connected t
 Use pencil drawings as a real time interface. In this example we will draw an maze on a piece o paper and transform it into an interactive game.
 ###11 - Blablabla (pupetry)
 Create interfaces to animate virtual characters
----
 ##Day 2
 *More advanced Processing sketches and introduction to Spacebrew*
 ###01 - Game
