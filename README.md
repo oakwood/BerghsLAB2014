@@ -1,5 +1,4 @@
 #Anything as an interface
----
 
 A guide to prototyping tools that can transform (almost) any object into an interface to the digital world.
 
@@ -14,7 +13,6 @@ Stockholm 2014.*
 
 
 #Program Material
----
 ##Day 1
 *Introduction to Processing and MakeyMakey*
 ###01 - Hello Rectangle
@@ -39,6 +37,7 @@ A simple way to create an interface out of vegetables. Each fruit is connected t
 Use pencil drawings as a real time interface. In this example we will draw an maze on a piece o paper and transform it into an interactive game.
 ###11 - Blablabla (pupetry)
 Create interfaces to animate virtual characters
+---
 ##Day 2
 *More advanced Processing sketches and introduction to Spacebrew*
 ###01 - Game
