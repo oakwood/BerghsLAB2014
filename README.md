@@ -6,7 +6,7 @@ A guide to prototyping tools that can transform (almost) any object into an inte
 *Material for the BergsLab workshop at [Berghs School of Communication](http://www.berghs.se/), 
 Stockholm 2014.*
 
-######Keynote presenteations:
+######Keynote:
 
 * [Day 1 ](https://docs.google.com/presentation/d/1wULejgDr7kwPqIzvw9GjwQYGZrfVHriYA66VKjX6lhg/edit?usp=sharing)
 * [Day 2](https://docs.google.com/presentation/d/1KcnvuD-WhcpLYzd7s_EHoeBoY66CGK3oE-h5TwaFGjQ/edit?usp=sharing)
