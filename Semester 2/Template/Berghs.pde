@@ -21,12 +21,12 @@ void update() {
   }
   frame++;
   
-  SONAR =
+  //SONAR =
   
   
   //write servo
   
-  SERVO
+ // SERVO
 
 }
 
