@@ -4,7 +4,7 @@ A guide to prototyping tools that can transform (almost) any object into an inte
 
 
 *Material for the BergsLab workshop at [Berghs School of Communication](http://www.berghs.se/), 
-Stockholm 2014.*
+Stockholm, September 2014.*
 
 ######Keynote:
 
@@ -14,7 +14,7 @@ Stockholm 2014.*
 
 #Program Material
 ##Day 1
-*Introduction to Processing and MakeyMakey*
+*Introduction to Processing, MakeyMakey and Arduino*
 ###01 - Hello Rectangle
 Our very fist processign sketch that draw's a rectangle on the screen.
 ###02 - Drawing
