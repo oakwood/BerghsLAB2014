@@ -22,12 +22,12 @@ Detect when someone pours liquid into a cup.
 Create your own DIY jump sensor using aluminum foil.
 ###4 - Band
 Create band by playing a sample everytime someone touches an object. Fruits, liquids, cutlery anything goes!
-###5 - Sonar, distance
-Use a sonar to measure how far is your user,
-###6 - Sonar, trigger
-Use the sonar as trigger to know when someone has entered a space.
-###7 - Servo
-Make things move with a servo motor!
+###5 - Alarm
+Use the sonar as trigger an alarm when someone has entered an area.
+###6 - Punch
+Use a sonar to make a punch detector. Learn how to load a video file.
+###7 - Arm Wrestling
+Make digital Arm Wrestling game that moves a servo motor!
 
 ##Day 2
 *Introduction to Spacebrew*
