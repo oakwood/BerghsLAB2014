@@ -241,7 +241,7 @@ void sbUpdate(){
   sbConnectionThrottle++;
   if(sbConnectionThrottle % 1000 != 1) return;
 
-  boolean internet = isHostUp("http://spacebrew.cc");
+  boolean internet = isHostUp("ws://spacebrew.herokuapp.com:80");
   if(!internet) {
     sbIsConnected = false;
     if(!sbDidConnectionMessage){
@@ -256,7 +256,7 @@ void sbUpdate(){
   }
    
 
-  sb.connect( "sandbox.spacebrew.cc", sbName, "Berghs" );
+  sb.connect( "ws://spacebrew.herokuapp.com:80", sbName, "Berghs" );
   println("Connected to Spacebrew as \"" + sbName + "\".");
   sbIsConnected = true;
   sbDidConnectionMessage = false;
