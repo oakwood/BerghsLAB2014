@@ -31,10 +31,15 @@ Make digital Arm Wrestling game that moves a servo motor!
 
 ##Day 2
 *Important links*
+
 [SpaceBrew dashboard](http://spacebrew.github.io/spacebrew/admin/admin.html?server=spacebrew.herokuapp.com&port=80)
+
 [SpaceBrew Phone](http://oakwood.github.io/spacebrew/00_phone/)
+
 [SpaceBrew button](http://spacebrew.github.io/spacebrew.js/spacebrew_button/index.html?server=spacebrew.herokuapp.com&port=80&name=ChangeMyName)
+
 [SpaceBrew slider](http://spacebrew.github.io/spacebrew.js/spacebrew_slider/index.html?server=spacebrew.herokuapp.com&port=80&name=ChangeMyName)
+
 *Introduction to Spacebrew*
 ###1 - Game
 A simple and fun 2 players game.
