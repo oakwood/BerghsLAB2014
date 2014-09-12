@@ -11,27 +11,27 @@ void setup(){
 }
 
 void draw(){
-  // For the Arduino to work, you need to call
+  // For the Arduino and Spacebrew to work, you need to call
   // update() at the beggining of draw()
   update();
   
-  // Check if KEY_LEFT is pressed
-  if(KEY_LEFT == 1.0 && bangLeft){
+  // Check if SB_BUTTON_1 is pressed
+  if(SB_BUTTON_1 == 1.0 && bangLeft){
     // decrease the position
     position -= 0.01;
     bangLeft = false; 
   }
-  if(KEY_LEFT == 0.){
+  if(SB_BUTTON_1 == 0.){
     bangLeft = true;
   }
   
-  // Check if KEY_RIGHT is pressed
-  if(KEY_RIGHT == 1.0 && bangRight){
+  // Check if SB_BUTTON_2 is pressed
+  if(SB_BUTTON_2 == 1.0 && bangRight){
     // increase the position
     position += 0.01;
     bangRight = false; 
   }
-  if(KEY_RIGHT == 0.){
+  if(SB_BUTTON_2 == 0.){
     bangRight = true;
   }
   

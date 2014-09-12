@@ -37,6 +37,8 @@ void update() {
     port.clear();
     if(inByte < 266){
       SONAR = map(inByte, 0, 255, 0, 1);
+      if(SONAR > 1) SONAR = 1;
+      else if(SONAR < 0) SONAR = 0;
     }
     port.write((char)(SERVO * 127));
   }
@@ -241,7 +243,7 @@ void sbUpdate(){
   sbConnectionThrottle++;
   if(sbConnectionThrottle % 1000 != 1) return;
 
-  boolean internet = isHostUp("ws://spacebrew.herokuapp.com:80");
+  boolean internet = isHostUp("http://spacebrew.herokuapp.com");
   if(!internet) {
     sbIsConnected = false;
     if(!sbDidConnectionMessage){
@@ -256,7 +258,7 @@ void sbUpdate(){
   }
    
 
-  sb.connect( "ws://spacebrew.herokuapp.com:80", sbName, "Berghs" );
+  sb.connect( "spacebrew.herokuapp.com", 80, sbName, "Berghs" );
   println("Connected to Spacebrew as \"" + sbName + "\".");
   sbIsConnected = true;
   sbDidConnectionMessage = false;
@@ -264,6 +266,8 @@ void sbUpdate(){
 }
 void onRange( int value ){
    SB_RANGE = (float) value / 1024.0;
+   if(SB_RANGE > 1) SB_RANGE = 1;
+   else if(SB_RANGE < 0) SB_RANGE = 0;
 }
 void onButton1( boolean value ){
    SB_BUTTON = (value) ? 1 : 0;

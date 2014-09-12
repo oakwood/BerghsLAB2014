@@ -30,20 +30,22 @@ Use a sonar to make a punch detector. Learn how to load a video file.
 Make digital Arm Wrestling game that moves a servo motor!
 
 ##Day 2
+
+*Introduction to Spacebrew*
+###1 - Online Arm Wrestling
+Use spacebrew to transform the Arm Wrestling game into a online multiplayer experience!
+###2 - Online Punch
+Use your phone as a punch interface.
+###3 - Whip App
+Do you remember the Whip App? We show you how to make your own.
+###4 - Follow the leader
+Use the sensors on your phone to figure out if a person is stading up or sitting down.
+
 *Important links*
 
-[SpaceBrew dashboard](http://spacebrew.github.io/spacebrew/admin/admin.html?server=spacebrew.herokuapp.com&port=80)
+[SpaceBrew Dashboard](http://spacebrew.github.io/spacebrew/admin/admin.html?server=spacebrew.herokuapp.com&port=80)
+
+[SpaceBrew Button](http://spacebrew.github.io/spacebrew.js/spacebrew_button/index.html?server=spacebrew.herokuapp.com&port=80&name=ChangeMyName)
 
 [SpaceBrew Phone](http://oakwood.github.io/spacebrew/00_phone/)
 
-[SpaceBrew button](http://spacebrew.github.io/spacebrew.js/spacebrew_button/index.html?server=spacebrew.herokuapp.com&port=80&name=ChangeMyName)
-
-[SpaceBrew slider](http://spacebrew.github.io/spacebrew.js/spacebrew_slider/index.html?server=spacebrew.herokuapp.com&port=80&name=ChangeMyName)
-
-*Introduction to Spacebrew*
-###1 - Game
-A simple and fun 2 players game.
-###2 - Online multiplayer game
-Use spacebrew to transform a simple game into a online multiplayer experience!
-###3 - Mix it up!
-Make the examples of the previous class internet enabled!
