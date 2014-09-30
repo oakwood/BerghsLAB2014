@@ -8,7 +8,8 @@ Stockholm, September 2014.*
 
 ######Keynote:
 
-* [Day 1 ](https://docs.google.com/presentation/d/1rfqmw0J2BBEFYgNEULkHXIh8TeKBvQVxT_S2VhfnLGs/edit?usp=sharing)
+* [Day 1](https://docs.google.com/presentation/d/1rfqmw0J2BBEFYgNEULkHXIh8TeKBvQVxT_S2VhfnLGs/edit?usp=sharing)
+* [Day 2](https://docs.google.com/presentation/d/1C7i3Ydz7UWgEuUAWA2hKIW7r-ouz-TxjegOgODNmR8I/edit?usp=sharing)
 
 
 #Program Material
